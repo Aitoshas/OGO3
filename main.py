@@ -8,7 +8,7 @@ SCREEN_HEIGHT = 600
 screen = pygame.display.set_mode((SCREEN_WIDTH,SCREEN_HEIGHT))
 
 pygame.display.set_caption("The Game Tir")
-icon = pygame.image.load("img/_27cda353-57d9-4bc0-829e-675a35c7e82f.jpg")
+icon = pygame.image.load("img/shootphoto.img.jpg")
 pygame.display.set_icon(icon)
 
 target_img = pygame.image.load('img/target.png')
